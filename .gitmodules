@@ -1,0 +1,3 @@
+[submodule "external/ibclient"]
+	path = external/ibclient
+	url = https://github.com/openquant/ibclient.git
